@@ -1,4 +1,4 @@
-# Analysing_Ecommerce-Customer-Behavior-data_to_drive-_revenue.
+# Analysing Ecommerce Customer Behavior data to drive revenue.
 # INTRODUCTION
 # FLOW & ROADMAP of the project.
 # LANGUAGES & TOOLS
